@@ -1,7 +1,7 @@
 # Vladimir Solodkov
 --- 
 **Junior Frontend Developer**
-***
+---
 ## Personal information
 * Date of birth: October 3, 1986 in Kazakhstan
 * Location: Russia, Kaliningrad
@@ -27,7 +27,7 @@ I'm just at the beginning of my journey as a developer. Today I am studying at R
  * Teamwork
  * Responsibility
  * Flexibility
-***
+---
 ## Code Example
 ~~~
 function hello(){
@@ -36,16 +36,15 @@ function hello(){
 
 hello();
 ~~~
-***
 ## Education
 ---
 * University: [M.KOZYBAYEV NORTH KAZAKHSTAN UNIVERSITY](https://www.nkzu.kz/?lang=en)
 * Courses:
   * [JavaScript Development (RS School)](https://careers.epam.by/training/training-listings/training.3559) (in progress)
   * [Современный учебник JavaScript](https://learn.javascript.ru/) (in progress)
-  ---
+---
 ## Language skills
-***
+---
 * **Russian** - Native language
 * **English** - A2 Elementary (B1 Intermediate in progress)
 ---
