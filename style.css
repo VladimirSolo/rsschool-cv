@@ -69,6 +69,13 @@ section {
 .code {
     background-color: rgb(209, 201, 201);
     font-size: 16px;
+    
+}
+
+@media screen and (max-width: 320px) {
+    .code {
+        width: 80%;
+    }
 }
 
 .logo {
@@ -76,11 +83,17 @@ section {
     height: 10%;
 }
 
+.date {
+    font-size: large;
+    float: right;
+    
+}
+
 footer {
     
     max-width: 900px;
     margin: 0 auto;
     text-align: center;
-
 };
+
 
