@@ -1,0 +1,1 @@
+https://vladimirsolo.github.io/rsschool-cv/
